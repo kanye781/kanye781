@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kanye781
-- 👀 I’m interested in programming and ethical hacking 
+- 👀 I’m interested in programming and machine learning
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
